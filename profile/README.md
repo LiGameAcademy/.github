@@ -1,5 +1,12 @@
 # 老李游戏学院 · 开发者共创社区指南
 
+[![知识星球](https://img.shields.io/badge/知识星球-老李游戏学院-blue.svg?style=flat)](https://wx.zsxq.com/group/28885154818841)
+[![GitHub](https://img.shields.io/github/repo-size/LiGameAcademy/LiGameAcademy.svg?style=social)](https://github.com/LiGameAcademy)
+[![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C.svg?logo=itch.io&logoColor=white)](https://godot-li.itch.io/)
+[![Bilibili](https://img.shields.io/badge/Bilibili-玩物不丧志的老李-red.svg?style=flat)](https://space.bilibili.com/8618918)
+[![YouTube](https://img.shields.io/badge/YouTube-OldLee-yellow.svg?style=flat)](https://www.youtube.com/@user-oldLee)
+[![Discord](https://img.shields.io/badge/Discord-7289DA.svg?logo=discord&logoColor=white)](https://discord.com/invite/V5nuzC2BcJ)
+
 愿景：打造1000位独立游戏开发者的成长家园
 
 # 🚀 致开发者伙伴的一封信  
