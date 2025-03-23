@@ -21,15 +21,15 @@
 
 ## 📚 其他资源
 
-- [社区积分制度](docs/community_points.md)
-- [社区作品展示](docs/community_showcase.md)
-- [美术资源推荐](docs/art_resources.md)
-- [GameJam参赛作品](docs/gamejam_entries.md)
-- [Godot工具和游戏框架推荐](docs/godot_tools.md)
+- [社区积分制度](/docs/community_points.md)
+- [社区作品展示](/docs/community_showcase.md)
+- [美术资源推荐](/docs/art_resources.md)
+- [GameJam参赛作品](/docs/gamejam_entries.md)
+- [Godot工具和游戏框架推荐](/docs/godot_tools.md)
 
 ## 🔗 快速链接
 
-- [📚 详细社区指南](docs/community_guide.md)
+- [📚 详细社区指南](../README.md)
 - [🌐 GitHub组织](https://github.com/LiGameAcademy)
 - [🎮 itch.io主页](https://godot-li.itch.io)
 - [📺 B站主页](https://space.bilibili.com/8618918)

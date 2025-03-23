@@ -1,12 +1,12 @@
-# LiGame Academy · Developer Community
+# Li Game Academy · Developer Community
 
-> Vision: Creating a Growth Haven for 1000 Independent Game Developers
+> Vision: Creating a Growth Hub for 1000 Independent Game Developers
 
 [简体中文](README.md) | English
 
-## 🎯 About Us
+## 🎯 Community Introduction
 
-LiGame Academy is an open-source community focused on independent game development. We are dedicated to:
+Li Game Academy is an open-source community focused on independent game development. We are committed to:
 
 - 🎮 Driving skill growth through hands-on projects
 - 🤝 Building a developer resource sharing network
@@ -14,16 +14,24 @@ LiGame Academy is an open-source community focused on independent game developme
 
 ## 🌟 Open Source Projects
 
-- [Godot Turn-based RPG Framework](https://github.com/Liweimin0512/godot_nut_dungeon)
 - [GodotCoreSystem Plugin](https://github.com/Liweimin0512/godot_core_system)
 - [GDDataForge Plugin](https://github.com/Liweimin0512/GDDataForge)
-- [GodotGameplayAbilitySystem Plugin](https://github.com/Liweimin0512/godot_gameplay_ability_system)
+- [GodotGameplayAbilitySystem Plugin (In Development)](https://github.com/Liweimin0512/godot_gameplay_ability_system)
+- [Godot Turn-based RPG Framework (In Development)](https://github.com/Liweimin0512/godot_nut_dungeon)
+
+## 📚 Other Resources
+
+- [Community Points System](/docs/community_points.md)
+- [Community Showcase](/docs/community_showcase.md)
+- [Art Resources](/docs/art_resources.md)
+- [GameJam Entries](/docs/gamejam_entries.md)
+- [Godot Tools and Game Frameworks](/docs/godot_tools.md)
 
 ## 🔗 Quick Links
 
-- [📚 Detailed Community Guide](docs/community_guide_en.md)
+- [📚 Detailed Community Guide](../README_EN.md)
 - [🌐 GitHub Organization](https://github.com/LiGameAcademy)
-- [🎮 itch.io Homepage](https://godot-li.itch.io)
+- [🎮 itch.io Page](https://godot-li.itch.io)
 - [📺 Bilibili Channel](https://space.bilibili.com/8618918)
 - [💡 Knowledge Planet](https://wx.zsxq.com/group/28885154818841)
 
