@@ -40,6 +40,8 @@
 - [🎵 Freesound](https://freesound.org/) - 免费音效库，种类丰富
 - [🎮 OpenGameArt Audio](https://opengameart.org/art-search-advanced?keys=&field_art_type_tid%5B%5D=13) - 开源游戏音效
 - [🎧 BBC Sound Effects](https://sound-effects.bbcrewind.co.uk/) - BBC提供的音效库
+- [🎵 乌鸦的免费可商用音乐包](https://pan.baidu.com/s/1M6qPemVhW6kO8GYInbEHFw?pwd=3cg9) - 免费可商用。详情参考[视频简介](https://www.bilibili.com/video/BV1uFcwe1EDV/?spm_id_from=333.337.search-card.all.click&vd_source=912de37828db7e4feff5c9492864d51c)
+- [🎵 黑耀耀的钢琴曲素材包vol1：Galgame/独立游戏创作者的必备音乐库！](https://pan.baidu.com/s/1GfYcbCt02E0Cyhc8ixzLEg) - **提取码：8888**【免费可商用】[试听链接](https://www.bilibili.com/video/BV1MAXEYuETE/?spm_id_from=333.1387.favlist.content.click&vd_source=912de37828db7e4feff5c9492864d51c)
 
 ### 💎 付费资源
 
