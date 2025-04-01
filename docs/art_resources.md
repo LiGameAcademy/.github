@@ -53,6 +53,7 @@
 - [📝 Google Fonts](https://fonts.google.com/) - 免费开源字体
 - [🔤 DaFont](https://www.dafont.com/) - 提供大量免费字体
 - [📜 Font Squirrel](https://www.fontsquirrel.com/) - 商用免费字体
+- [🔤 支持中文的像素字体](https://poppyworks.itch.io/silver)- 几乎免费
 
 ## ⚠️ 注意事项
 
