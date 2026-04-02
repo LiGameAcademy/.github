@@ -16,8 +16,8 @@
 
 - [GodotCoreSystem插件](https://github.com/Liweimin0512/godot_core_system)
 - [GDDataForge插件](https://github.com/Liweimin0512/GDDataForge)
-- [GodotGameplayAbilitySystem插件（开发中）](https://github.com/Liweimin0512/godot_gameplay_ability_system)
-- [Godot回合制RPG游戏框架（开发中](https://github.com/Liweimin0512/godot_nut_dungeon)
+- [godot4架构实战：回合制战斗系统](https://github.com/LiGameAcademy/godot4_turn_based_combat_system)
+- [godot4架构实战：通用技能系统](https://github.com/LiGameAcademy/godot_ability_system)
 
 ## 📚 其他资源
 
