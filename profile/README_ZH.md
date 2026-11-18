@@ -8,6 +8,7 @@
 
 ## 从这里开始学习
 
+- [老李游戏学院官网](https://ligameacademy.github.io/laoli-academy/) · [English website](https://ligameacademy.github.io/laoli-academy/en/)：浏览课程目录、阅读免费图文教程、试玩项目。
 - [图文教程库](https://github.com/LiGameAcademy/laoli_gamedev_godot4_course)：图文教程、配对工程与课程材料，涵盖 Godot 入门、ARPG、对话与任务、RTS、回合制战斗等主题。
 - [Godot 教程示例](https://github.com/LiGameAcademy/godot_tutorial_examples)：配合 Godot 入门课程使用的示例工程。
 - [独立游戏观察](https://github.com/LiGameAcademy/IndieGameWatch)：独立游戏的设计、开发与美术分析拆解。

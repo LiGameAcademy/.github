@@ -8,6 +8,7 @@ Li Game Academy is a game development education and open-source community led by
 
 ## Start learning
 
+- [Li Game Academy website](https://ligameacademy.github.io/laoli-academy/en/) · [中文官网](https://ligameacademy.github.io/laoli-academy/): browse courses, read free tutorials, and try playable projects.
 - [Tutorial library](https://github.com/LiGameAcademy/laoli_gamedev_godot4_course): written tutorials, paired project repositories, and course materials covering Godot fundamentals, ARPGs, dialogue and quests, RTS games, turn-based combat, and more.
 - [Godot tutorial examples](https://github.com/LiGameAcademy/godot_tutorial_examples): examples accompanying the introductory Godot course.
 - [IndieGameWatch](https://github.com/LiGameAcademy/IndieGameWatch): breakdowns of indie game design, development, and art.
